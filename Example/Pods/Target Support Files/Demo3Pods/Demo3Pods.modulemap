@@ -1,0 +1,6 @@
+framework module Demo3Pods {
+  umbrella header "Demo3Pods-umbrella.h"
+
+  export *
+  module * { export * }
+}

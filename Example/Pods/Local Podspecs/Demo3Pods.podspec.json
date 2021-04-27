@@ -1,0 +1,22 @@
+{
+  "name": "Demo3Pods",
+  "version": "0.1.0",
+  "summary": "A short description of Demo3Pods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nvtinh368/Demo3Pods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nvtinh368": "nguuyenvantinhfithou@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/nvtinh368/Demo3Pods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Demo3Pods/Classes/**/*"
+}
